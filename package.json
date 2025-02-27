@@ -1,7 +1,7 @@
 {
-  "name": "vite-react-typescript-starter",
-  "private": true,
-  "version": "0.0.0",
+  "name": "bolt_app",
+  "version": "0.0.1",
+  "homepage": "https://waterfirst.github.io/bolt_app/",
   "type": "module",
   "scripts": {
     "dev": "vite",
